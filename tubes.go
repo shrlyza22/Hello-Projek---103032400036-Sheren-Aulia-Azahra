@@ -1,5 +1,11 @@
 package main
 
+/*Tugas Besar Mata Kuliah Algortima dan Pemrograman pada Semester 2
+Program ini merupakan hasil brainstorming ide, tujuannya adalah untuk menyimpan ide-ide yang muncul
+di dalam organisasi agar dapat ditinjau ulang dan diputuskan apakah ide tersebut disetujui atau tidak
+
+Sheren Aulia Azahra - 103032400036
+IT-48-05*/
 import "fmt"
 
 type Ide struct {
