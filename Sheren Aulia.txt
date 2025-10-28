@@ -1,0 +1,9 @@
+Tugas WGTIK 
+
+Sheren Aulia Azahra
+103032400036
+IT-48-05
+
+penggunaan tools git dan GitHub
+
+File ini dibuat sebagai contoh file untuk proses commit dan push 
