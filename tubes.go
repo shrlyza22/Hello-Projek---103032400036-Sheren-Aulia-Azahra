@@ -6,6 +6,7 @@ di dalam organisasi agar dapat ditinjau ulang dan diputuskan apakah ide tersebut
 
 Sheren Aulia Azahra - 103032400036
 IT-48-05*/
+
 import "fmt"
 
 type Ide struct {
